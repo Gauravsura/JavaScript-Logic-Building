@@ -1,11 +1,10 @@
-# Problem: Two Sum
+# Problem: Print msg on console
 
 ## Description
-Write a problem Statement here
-<Write a program that prints "Hello_World" to the console
+Write a program that prints "Hello_World" to the console
 
 ## Input 
-Describe the input
+Describe Input
 
 ## Output
 Describe the expected Output
